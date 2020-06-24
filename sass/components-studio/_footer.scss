@@ -5,8 +5,12 @@
     align-items: center;
     justify-content: space-between;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    & .location {
+      padding-bottom: 30px;
+    }
   }
 }
+
 .footer-page .social {
   display: flex;
   justify-content: space-between;
